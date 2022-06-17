@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T04:21:25.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="55ib6dV-9ZTe77P4ar6d" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T04:25:53.745Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="wYSF-NZ9uH21hCJxcHpV" version="20.0.1" type="github">
   <diagram id="DHPCBZ1sOKymprh5gIrL" name="Page-1">
-    <mxGraphModel dx="1426" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,8 +345,14 @@
         <mxCell id="jmkYEfXH77HOmsJh8k_9-173" value="SFTP - Makro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jmkYEfXH77HOmsJh8k_9-175" value="Umang" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="jmkYEfXH77HOmsJh8k_9-175" value="Actor (Umang)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1480" y="-140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jmkYEfXH77HOmsJh8k_9-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jmkYEfXH77HOmsJh8k_9-180" target="jmkYEfXH77HOmsJh8k_9-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jmkYEfXH77HOmsJh8k_9-180" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="120" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
